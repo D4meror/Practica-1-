@@ -1,0 +1,14 @@
+C:\Users\sujea\Desktop\Proyectos\Practica(1)\Votos\Votos\obj\Debug\Votos.csproj.AssemblyReference.cache
+C:\Users\sujea\Desktop\Proyectos\Practica(1)\Votos\Votos\obj\Debug\Votos.Formularios.LoginForm.resources
+C:\Users\sujea\Desktop\Proyectos\Practica(1)\Votos\Votos\obj\Debug\Votos.Formularios.Usuario.PanelDeVotacion.resources
+C:\Users\sujea\Desktop\Proyectos\Practica(1)\Votos\Votos\obj\Debug\Votos.Properties.Resources.resources
+C:\Users\sujea\Desktop\Proyectos\Practica(1)\Votos\Votos\obj\Debug\Votos.csproj.GenerateResource.cache
+C:\Users\sujea\Desktop\Proyectos\Practica(1)\Votos\Votos\obj\Debug\Votos.csproj.CoreCompileInputs.cache
+C:\Users\sujea\Desktop\Proyectos\Practica(1)\Votos\Votos\bin\Debug\Votos.exe.config
+C:\Users\sujea\Desktop\Proyectos\Practica(1)\Votos\Votos\bin\Debug\Votos.exe
+C:\Users\sujea\Desktop\Proyectos\Practica(1)\Votos\Votos\bin\Debug\Votos.pdb
+C:\Users\sujea\Desktop\Proyectos\Practica(1)\Votos\Votos\obj\Debug\Votos.exe
+C:\Users\sujea\Desktop\Proyectos\Practica(1)\Votos\Votos\obj\Debug\Votos.pdb
+C:\Users\sujea\Desktop\Proyectos\Practica(1)\Votos\Votos\obj\Debug\Votos.Formularios.Admin.PanelAdmin.resources
+C:\Users\sujea\Desktop\Proyectos\Practica(1)\Votos\Votos\obj\Debug\Votos.Formularios.Admin.VistaPartidos.PanelPartidos.resources
+C:\Users\sujea\Desktop\Proyectos\Practica(1)\Votos\Votos\obj\Debug\Votos.Formularios.Admin.VistaUsuarios.PanelUsuarios.resources

@@ -3,12 +3,24 @@
   "WorkspaceRootPath": "C:\\Users\\sujea\\Desktop\\Proyectos\\Practica(1)\\Votos\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{2FB9A6AF-E423-4887-A5D6-27C9C21EC91E}|Votos\\Votos.csproj|c:\\users\\sujea\\desktop\\proyectos\\practica(1)\\votos\\votos\\formularios\\usuario\\paneldevotacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2FB9A6AF-E423-4887-A5D6-27C9C21EC91E}|Votos\\Votos.csproj|solutionrelative:votos\\formularios\\usuario\\paneldevotacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{2FB9A6AF-E423-4887-A5D6-27C9C21EC91E}|Votos\\Votos.csproj|c:\\users\\sujea\\desktop\\proyectos\\practica(1)\\votos\\votos\\formularios\\admin\\vistausuarios\\agregarusuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2FB9A6AF-E423-4887-A5D6-27C9C21EC91E}|Votos\\Votos.csproj|solutionrelative:votos\\formularios\\admin\\vistausuarios\\agregarusuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2FB9A6AF-E423-4887-A5D6-27C9C21EC91E}|Votos\\Votos.csproj|c:\\users\\sujea\\desktop\\proyectos\\practica(1)\\votos\\votos\\formularios\\usuario\\paneldevotacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{2FB9A6AF-E423-4887-A5D6-27C9C21EC91E}|Votos\\Votos.csproj|solutionrelative:votos\\formularios\\usuario\\paneldevotacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{2FB9A6AF-E423-4887-A5D6-27C9C21EC91E}|Votos\\Votos.csproj|c:\\users\\sujea\\desktop\\proyectos\\practica(1)\\votos\\votos\\formularios\\admin\\vistausuarios\\agregarusuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{2FB9A6AF-E423-4887-A5D6-27C9C21EC91E}|Votos\\Votos.csproj|solutionrelative:votos\\formularios\\admin\\vistausuarios\\agregarusuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2FB9A6AF-E423-4887-A5D6-27C9C21EC91E}|Votos\\Votos.csproj|c:\\users\\sujea\\desktop\\proyectos\\practica(1)\\votos\\votos\\formularios\\admin\\paneladmin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{2FB9A6AF-E423-4887-A5D6-27C9C21EC91E}|Votos\\Votos.csproj|solutionrelative:votos\\formularios\\admin\\paneladmin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2FB9A6AF-E423-4887-A5D6-27C9C21EC91E}|Votos\\Votos.csproj|c:\\users\\sujea\\desktop\\proyectos\\practica(1)\\votos\\votos\\formularios\\admin\\paneladmin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2FB9A6AF-E423-4887-A5D6-27C9C21EC91E}|Votos\\Votos.csproj|solutionrelative:votos\\formularios\\admin\\paneladmin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2FB9A6AF-E423-4887-A5D6-27C9C21EC91E}|Votos\\Votos.csproj|c:\\users\\sujea\\desktop\\proyectos\\practica(1)\\votos\\votos\\clases\\logica\\administracionusuarios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2FB9A6AF-E423-4887-A5D6-27C9C21EC91E}|Votos\\Votos.csproj|solutionrelative:votos\\clases\\logica\\administracionusuarios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,8 +30,60 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 1,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AdministracionUsuarios.cs",
+              "DocumentMoniker": "C:\\Users\\sujea\\Desktop\\Proyectos\\Practica(1)\\Votos\\Votos\\Clases\\Logica\\AdministracionUsuarios.cs",
+              "RelativeDocumentMoniker": "Votos\\Clases\\Logica\\AdministracionUsuarios.cs",
+              "ToolTip": "C:\\Users\\sujea\\Desktop\\Proyectos\\Practica(1)\\Votos\\Votos\\Clases\\Logica\\AdministracionUsuarios.cs",
+              "RelativeToolTip": "Votos\\Clases\\Logica\\AdministracionUsuarios.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T18:43:25.416Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "agregarUsuario.cs",
+              "DocumentMoniker": "C:\\Users\\sujea\\Desktop\\Proyectos\\Practica(1)\\Votos\\Votos\\Formularios\\Admin\\VistaUsuarios\\agregarUsuario.cs",
+              "RelativeDocumentMoniker": "Votos\\Formularios\\Admin\\VistaUsuarios\\agregarUsuario.cs",
+              "ToolTip": "C:\\Users\\sujea\\Desktop\\Proyectos\\Practica(1)\\Votos\\Votos\\Formularios\\Admin\\VistaUsuarios\\agregarUsuario.cs",
+              "RelativeToolTip": "Votos\\Formularios\\Admin\\VistaUsuarios\\agregarUsuario.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAIAwwBgAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T18:55:19.529Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PanelAdmin.cs",
+              "DocumentMoniker": "C:\\Users\\sujea\\Desktop\\Proyectos\\Practica(1)\\Votos\\Votos\\Formularios\\Admin\\PanelAdmin.cs",
+              "RelativeDocumentMoniker": "Votos\\Formularios\\Admin\\PanelAdmin.cs",
+              "ToolTip": "C:\\Users\\sujea\\Desktop\\Proyectos\\Practica(1)\\Votos\\Votos\\Formularios\\Admin\\PanelAdmin.cs",
+              "RelativeToolTip": "Votos\\Formularios\\Admin\\PanelAdmin.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAIAwwBcAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T18:52:43.821Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PanelAdmin.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\sujea\\Desktop\\Proyectos\\Practica(1)\\Votos\\Votos\\Formularios\\Admin\\PanelAdmin.cs",
+              "RelativeDocumentMoniker": "Votos\\Formularios\\Admin\\PanelAdmin.cs",
+              "ToolTip": "C:\\Users\\sujea\\Desktop\\Proyectos\\Practica(1)\\Votos\\Votos\\Formularios\\Admin\\PanelAdmin.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Votos\\Formularios\\Admin\\PanelAdmin.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T18:52:39.811Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
@@ -34,27 +98,14 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "PanelDeVotacion.cs",
-              "DocumentMoniker": "C:\\Users\\sujea\\Desktop\\Proyectos\\Practica(1)\\Votos\\Votos\\Formularios\\Usuario\\PanelDeVotacion.cs",
-              "RelativeDocumentMoniker": "Votos\\Formularios\\Usuario\\PanelDeVotacion.cs",
-              "ToolTip": "C:\\Users\\sujea\\Desktop\\Proyectos\\Practica(1)\\Votos\\Votos\\Formularios\\Usuario\\PanelDeVotacion.cs",
-              "RelativeToolTip": "Votos\\Formularios\\Usuario\\PanelDeVotacion.cs",
-              "ViewState": "AgIAAAcAAAAAAAAAAIAwwCEAAAAjAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-04T17:00:09.225Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "PanelDeVotacion.cs [Dise\u00F1o]",
-              "DocumentMoniker": "C:\\Users\\sujea\\Desktop\\Proyectos\\Practica(1)\\Votos\\Votos\\Formularios\\Usuario\\PanelDeVotacion.cs",
-              "RelativeDocumentMoniker": "Votos\\Formularios\\Usuario\\PanelDeVotacion.cs",
-              "ToolTip": "C:\\Users\\sujea\\Desktop\\Proyectos\\Practica(1)\\Votos\\Votos\\Formularios\\Usuario\\PanelDeVotacion.cs [Dise\u00F1o]",
-              "RelativeToolTip": "Votos\\Formularios\\Usuario\\PanelDeVotacion.cs [Dise\u00F1o]",
+              "Title": "agregarUsuario.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\sujea\\Desktop\\Proyectos\\Practica(1)\\Votos\\Votos\\Formularios\\Admin\\VistaUsuarios\\agregarUsuario.cs",
+              "RelativeDocumentMoniker": "Votos\\Formularios\\Admin\\VistaUsuarios\\agregarUsuario.cs",
+              "ToolTip": "C:\\Users\\sujea\\Desktop\\Proyectos\\Practica(1)\\Votos\\Votos\\Formularios\\Admin\\VistaUsuarios\\agregarUsuario.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Votos\\Formularios\\Admin\\VistaUsuarios\\agregarUsuario.cs [Dise\u00F1o]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-04T16:59:01.31Z",
+              "WhenOpened": "2024-12-04T18:37:39.845Z",
               "EditorCaption": " [Dise\u00F1o]"
             }
           ]

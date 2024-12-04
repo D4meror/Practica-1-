@@ -47,6 +47,8 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Clases\Datos\Conexion.cs" />
+    <Compile Include="Clases\Datos\EjecutarConsultas.cs" />
+    <Compile Include="Clases\Logica\AdministracionUsuarios.cs" />
     <Compile Include="Formularios\Admin\PanelAdmin.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -58,6 +60,12 @@
     </Compile>
     <Compile Include="Formularios\Admin\VistaPartidos\PanelPartidos.Designer.cs">
       <DependentUpon>PanelPartidos.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Formularios\Admin\VistaUsuarios\agregarUsuario.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Formularios\Admin\VistaUsuarios\agregarUsuario.Designer.cs">
+      <DependentUpon>agregarUsuario.cs</DependentUpon>
     </Compile>
     <Compile Include="Formularios\Admin\VistaUsuarios\PanelUsuarios.cs">
       <SubType>Form</SubType>
@@ -84,6 +92,9 @@
     </EmbeddedResource>
     <EmbeddedResource Include="Formularios\Admin\VistaPartidos\PanelPartidos.resx">
       <DependentUpon>PanelPartidos.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Formularios\Admin\VistaUsuarios\agregarUsuario.resx">
+      <DependentUpon>agregarUsuario.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Formularios\Admin\VistaUsuarios\PanelUsuarios.resx">
       <DependentUpon>PanelUsuarios.cs</DependentUpon>
@@ -116,8 +127,6 @@
   <ItemGroup>
     <None Include="App.config" />
   </ItemGroup>
-  <ItemGroup>
-    <Folder Include="Clases\Logica\" />
-  </ItemGroup>
+  <ItemGroup />
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
