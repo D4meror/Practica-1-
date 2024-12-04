@@ -7,6 +7,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
+using Votos.Formularios.Usuario;
 
 namespace Votos.Formularios
 {
@@ -15,6 +16,19 @@ namespace Votos.Formularios
         public LoginForm()
         {
             InitializeComponent();
+        }
+
+        private void LoginForm_Load(object sender, EventArgs e)
+        {
+
+        }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+            PanelDeVotacion panelDeVotacion = new PanelDeVotacion();
+            panelDeVotacion.ShowDialog();
+            this.Hide();
+            this.Close();
         }
     }
 }

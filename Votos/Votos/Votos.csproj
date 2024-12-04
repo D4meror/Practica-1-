@@ -53,10 +53,19 @@
     <Compile Include="Formularios\LoginForm.Designer.cs">
       <DependentUpon>LoginForm.cs</DependentUpon>
     </Compile>
+    <Compile Include="Formularios\Usuario\PanelDeVotacion.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Formularios\Usuario\PanelDeVotacion.Designer.cs">
+      <DependentUpon>PanelDeVotacion.cs</DependentUpon>
+    </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <EmbeddedResource Include="Formularios\LoginForm.resx">
       <DependentUpon>LoginForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Formularios\Usuario\PanelDeVotacion.resx">
+      <DependentUpon>PanelDeVotacion.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Properties\Resources.resx">
       <Generator>ResXFileCodeGenerator</Generator>
@@ -82,6 +91,7 @@
   </ItemGroup>
   <ItemGroup>
     <Folder Include="Clases\Logica\" />
+    <Folder Include="Formularios\Admin\" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
